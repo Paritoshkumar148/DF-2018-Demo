@@ -1,0 +1,32 @@
+{
+  "packageDirectories": [
+    {
+      "versionName": "ver 0.1",
+      "versionNumber": "0.2.0.NEXT",
+      "path": "force-app",
+      "default": true,
+      "package": "DemoFileUploader",
+      "ancestorId": "04tQy0000005Xo9IAE",
+      "versionDescription": "This is the First Version of DemoFileUploader aka FileUploader project"
+    },
+    {
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "path": "force-app",
+      "default": false,
+      "package": "UploadManager",
+      "versionDescription": ""
+    }
+  ],
+  "name": "22Jan_Gihub_FileUploader",
+  "namespace": "DemoPackage2GP",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "61.0",
+  "packageAliases": {
+    "DemoFileUploader": "0HoQy0000000XvFKAU",
+    "DemoFileUploader@0.1.0-1": "04tQy0000005Xo9IAE",
+    "DemoFileUploader@0.2.0-1": "04tQy0000005ZBdIAM",
+    "UploadManager": "0HoQy0000000Y6XKAU",
+    "UploadManager@0.1.0-1": "04tQy0000005ZErIAM"
+  }
+}
